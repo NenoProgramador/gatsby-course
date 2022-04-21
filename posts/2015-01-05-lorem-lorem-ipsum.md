@@ -1,5 +1,5 @@
 ---
-title: Exemplo de código
+title: Exemplo de post com código
 description: And I'm lorem sure lorem
 date: 2015-01-05 05:54:23
 image: assets/img/avatar.jpg
