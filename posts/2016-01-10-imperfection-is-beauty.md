@@ -1,23 +1,19 @@
 ---
-date: 2016-01-10 05:54:23
-title: Imperfection is beauty, madness is genius
-description: And it's better to be absolutely ridiculous than absolutely boring
-category: css
-background: "#24809e"
+title: Hello, World!
+description: "O Neno agora possui seu próprio blog: Coisas boas a caminho!"
+date: 2022-04-21 05:47:36
+image: assets/img/cover.png
+category: misc
+background: "#7AAB13"
 ---
+Olá, tudo bem ?
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [bibendum](http://google.com) eu pulvinar vel, sodales vitae dui.
+Meu nome é Wadson Garbes e eu criei este blog para documentar minha vida profissional e um pouco da minha vida pessoal também. A ideia é consultar os posts aqui sempre quando eu precisar, da mesma maneira que alguém também possa precisar! 
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+> Nunca subestime o poder de um desenvolvedor que pendurou as chuteiras.
 
-Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.
+É serio, coisas muito boas podem vir daqueles que desenvolvem aplicacões, de uma maneira geral.
 
-> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
+### O que esperar deste blog ?
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.
-
-### Cras semper consectetur elementum
-
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+Coisas legais sobre a área de TI, não só meu trabalho mas também dos meus colegas (os quais ainda não convidei para escrever aqui mas certamente os convidarei) e eventuais viagens que espero fazer ao decorrer dos anos.
