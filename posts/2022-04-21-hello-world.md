@@ -2,7 +2,7 @@
 title: Hello, World!
 description: Primeiro post do Neno
 date: 2022-04-21 06:02:52
-image: assets/img/profile-photo.png
+image: https://avatars.githubusercontent.com/u/20468878?v=4
 category: lifestyle
 background: "#7D669E"
 ---
