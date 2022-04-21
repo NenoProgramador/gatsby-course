@@ -2,7 +2,7 @@ backend:
   name: github
   repo: NenoProgramador/gatsby-course
   branch: master
-  site_domain: https://blog-do-neno.netlify.app
+  site_domain: blog-do-neno.netlify.app
 
 publish_mode: editorial_workflow
 media_folder: "static/assets/img"
@@ -28,19 +28,18 @@ collections:
         label: "Category",
         name: "category",
         widget: "select",
-        options: ["jekyll", "css", "js", "html", "svg", "dev", "misc"]
+        options: ["qa", "dev", "js", "python", "lifestyle", "misc"]
       }
       - {
         label: "Background",
         name: "background",
         widget: "select",
         options: [
-          { label: "Jekyll", value: "#B31917" },
-          { label: 'CSS', value: '#2DA0C3' },
-          { label: 'JS', value: '#D6BA32' },
-          { label: 'HTML', value: '#EB7728' },
-          { label: 'SVG', value: '#7D669E' },
-          { label: 'Dev', value: '#637a91' },
+          { label: "QA", value: "#B31917" },
+          { label: 'Dev', value: '#2DA0C3' },
+          { label: 'js', value: '#D6BA32' },
+          { label: 'Python', value: '#EB7728' },
+          { label: 'Lifestyle', value: '#7D669E' },
           { label: 'Misc', value: '#7AAB13' },
         ]
       }
