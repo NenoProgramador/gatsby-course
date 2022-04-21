@@ -2,7 +2,7 @@ backend:
   name: github
   repo: NenoProgramador/gatsby-course
   branch: master
-  site_domain: blog-do-neno.netlify.com
+  site_domain: https://blog-do-neno.netlify.app
 
 publish_mode: editorial_workflow
 media_folder: "static/assets/img"
