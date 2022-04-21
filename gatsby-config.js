@@ -4,11 +4,11 @@ const queries = require("./src/utils/algolia_queries")
 
 module.exports = {
   siteMetadata: {
-    title: `John Doeoe`,
-    position: `Backend Developer`,
-    description: `A blog about backend development and other cool stuff.`,
-    author: `@myblog`,
-    siteUrl: `https://gatsby-course-will.netlify.com`,
+    title: `Blog do Neno`,
+    position: `Engenheiro de software`,
+    description: `Um blog sobre desenvolvimento de software e algumas outras coisas`,
+    author: `Wadson Garbes (neno)`,
+    siteUrl: `https://blog-do-neno.netlify.com`,
   },
   plugins: [
     `gatsby-plugin-transition-link`,
@@ -75,8 +75,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `John Doe`,
-        short_name: `John Doe`,
+        name: `Wadson Garbes`,
+        short_name: `Wadson garbes`,
         start_url: `/`,
         background_color: `#16202c`,
         theme_color: `#16202c`,
