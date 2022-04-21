@@ -8,6 +8,8 @@ background: "#7D669E"
 ---
 # Olá, tudo bem ?
 
+![Foto de Wadson Garbes](https://avatars.githubusercontent.com/u/20468878?v=4 "Wadson Garbes")
+
 Meu nome é Wadson Garbes e eu criei este blog para documentar minha vida profissional e um pouco da minha vida pessoal também. A ideia é consultar os posts aqui sempre quando eu precisar, da mesma maneira que alguém também possa precisar! 
 
 > Nunca subestime o poder de um desenvolvedor que pendurou as chuteiras.
