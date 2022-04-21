@@ -6,7 +6,7 @@ image: assets/img/profile-photo.png
 category: lifestyle
 background: "#7D669E"
 ---
-Olá, tudo bem ?
+# Olá, tudo bem ?
 
 Meu nome é Wadson Garbes e eu criei este blog para documentar minha vida profissional e um pouco da minha vida pessoal também. A ideia é consultar os posts aqui sempre quando eu precisar, da mesma maneira que alguém também possa precisar! 
 
