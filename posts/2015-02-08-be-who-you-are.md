@@ -1,7 +1,8 @@
 ---
-title: Be who you are
+title: Exemplo de post normal
 description: Because those who mind don't matter, and those who matter don't mind
 date: 2015-02-08 05:54:23
+image: assets/img/avatar.jpg
 category: dev
 background: "#61728f"
 ---
