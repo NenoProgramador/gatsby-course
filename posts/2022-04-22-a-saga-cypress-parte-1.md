@@ -25,6 +25,12 @@ Até então tudo beleza, mundo novo, coisas novas para explorar. Uma pasta já r
 
 > Um browser fazendo testes sozinho! Que belezura!
 
-E assim, tudo bem minimalista, no sentido de que, o que você vê é o que você tem
+Calma lá, também não é bem assim... Tenha em mente que **O cypress só executa os testes que você codificar!**
+
+E é aí que o Javascript entra em ação. é com ele que iremos codificar nossos casos de teste.
+
+> Se você precisa aprender javascript e não sabe onde encontrar conteúdo de qualidade e em português, eu super recomendo o curso da origamid.com com o instrutor André Rafael. Foi lá onde eu aprendi nao
+
+
 
 ![Cypress running](assets/img/cypress-screenshot-2.png "Cypress running")
