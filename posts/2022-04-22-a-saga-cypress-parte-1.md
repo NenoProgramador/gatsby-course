@@ -1,5 +1,5 @@
 ---
-title: Aprendendo cypress parte 1
+title: Aprendendo Cypress parte 1
 description: Testes E2E ou de interface com uma das ferramentas mais populares da atualidade
 date: 2022-04-21 10:27:34
 image: assets/img/cypress-cover.png
@@ -16,11 +16,13 @@ Após executar um comando no meu terminal, o famoso
 npx cypress open
 ```
 
-pude navegar nos diretórios criados automaticamente pela ferramenta, com a minha permissão, é claro (a primeira vez é perguntado se pode ser feita a instalaçaç).
+pude navegar nos diretórios criados automaticamente pela ferramenta, com a minha permissão, é claro (a primeira vez é perguntado se pode ser feita a instalação).
+
+> Atenção: Caso o comando acima tenha dado erro, você pode fazer funcionar! basta instalar o Node.js LTS em sua máquina. clique [aqui](https://nodejs.org/en/) para ir ao site oficial.
 
 ![Screenshot cypress](assets/img/cypress-screenshot.png "Cypress in action")
 
-Até então tudo beleza, mundo novo, coisas novas para explorar. Uma pasta já repleta de testes, a famosa 'integration' foi a primeira coisa que me chamou a atenção. Botei para rodar e fiquei surpreso com o resultado: 
+Até então tudo beleza, mundo novo, coisas novas para explorar. Uma pasta já repleta de testes, a famosa "integration" foi a primeira coisa que me chamou a atenção. Botei para rodar e fiquei surpreso com o resultado: 
 
 > Um browser fazendo testes sozinho! Que belezura!
 
@@ -32,4 +34,6 @@ E é aí que o Javascript entra em ação. é com ele que iremos codificar nosso
 
 ![Cypress running](assets/img/cypress-screenshot-2.png "Cypress running")
 
-Qual o próximo passo ? Veremos q
+# Legal Neno, mas o que iremos testar ?
+
+Vamos testar uma aplicação que eu mesmo desenvolvi. Atualmente estou atualizando uma imagem no dockerhub com o sistema para fácil instalação em vossas máquinas. Chique né ? Fiquem ligados nos próximos capítulos dessa saga!
