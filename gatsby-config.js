@@ -89,7 +89,7 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
     {
-      resolve: `gatsby-plugin-netlify-cms`, //fix
+      resolve: `gatsby-plugin-netlify-cms`, // hotfix
       options: {
         publicPath: `bWFuYWdlbWVudA==`,
       },
