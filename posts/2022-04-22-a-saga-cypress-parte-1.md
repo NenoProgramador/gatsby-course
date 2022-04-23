@@ -1,7 +1,7 @@
 ---
 title: Aprendendo Cypress parte 1
 description: Testes E2E ou de interface com uma das ferramentas mais populares da atualidade
-date: 2022-04-21 10:27:34
+date: 2022-04-22 09:20:45
 image: assets/img/cypress-cover.png
 category: qa
 background: "#B31917"
