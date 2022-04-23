@@ -30,10 +30,10 @@ Calma lá, também não é bem assim... Tenha em mente que **O cypress só execu
 
 E é aí que o Javascript entra em ação. é com ele que iremos codificar nossos casos de teste.
 
-> Se você precisa aprender javascript e não sabe onde encontrar conteúdo de qualidade e em português, eu super recomendo o curso da [origamid.com](https://origamid.com) com o instrutor André Rafael. Foi lá onde eu aprendi a manipular o DOM, API Fetch, Async/Await, Promises e muito mais!
+> Se você precisa aprender javascript e não sabe onde encontrar conteúdo de qualidade e em português, eu super recomendo o curso da [origamid](https://origamid.com) com o instrutor André Rafael. Foi lá onde eu aprendi a manipular o DOM, API Fetch, Async/Await, Promises e muito mais!
 
 ![Cypress running](assets/img/cypress-screenshot-2.png "Cypress running")
 
 # Legal Neno, mas o que iremos testar ?
 
-Vamos testar uma aplicação que eu mesmo desenvolvi. Atualmente estou atualizando uma imagem no dockerhub com o sistema para fácil instalação em vossas máquinas. Chique né ? Fiquem ligados nos próximos capítulos dessa saga!
+Vamos testar uma aplicação que eu mesmo desenvolvi. Atualmente estou atualizando uma imagem no [docker hub](https://hub.docker.com/) com o sistema para fácil instalação em vossas máquinas. Chique né ? Fiquem ligados nos próximos capítulos dessa saga!
