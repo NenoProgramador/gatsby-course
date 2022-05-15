@@ -7,4 +7,12 @@ image: assets/img/python-logo.jpeg
 category: python
 background: "#EB7728"
 ---
-O python possui uma imensa quantidade de módulos e bibliotecas de terceiros
+# Vamos de python!
+
+![Python logo](assets/img/python-logo.jpeg "Logo Python")
+
+O python possui uma imensa quantidade de módulos e bibliotecas de terceiros. Uma delas, é a famosa openpyxl, que lida muito bem com planilhas excel. Vamos utilizá-la para poder ler uma planilha em formato excel e convertê-la num JSON, formato mais amigável para o cypress fazer validações.
+
+## Tá Neno, mas por onde começo ?
+
+Para começar, vamos abrir um terminal e criar um repositório/pasta que irá conter nossos códigos
