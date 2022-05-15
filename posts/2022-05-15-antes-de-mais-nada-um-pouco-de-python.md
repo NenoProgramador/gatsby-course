@@ -15,4 +15,12 @@ O python possui uma imensa quantidade de módulos e bibliotecas de terceiros. Um
 
 ## Tá Neno, mas por onde começo ?
 
-Para começar, vamos abrir um terminal e criar um repositório/pasta que irá conter nossos códigos
+Para começar, vamos abrir um terminal e criar um repositório/pasta que irá conter nossos códigos.
+
+![terminal](assets/img/captura-de-tela-2022-05-15-às-15.09.29.png "Terminal")
+
+Como você pode perceber, eu criei um repositório no caminho ~, que significa /home/wadsongarbes no Linux ou /Users/wadsongarbes no Mac. Eu consigo listar esse caminho com o comando **pwd**.
+
+![terminal comando pwd](assets/img/captura-de-tela-2022-05-15-às-15.12.46.png "pwd")
+
+Eu apelidei o primeiro script que vamos utilizar como mini-data.json
