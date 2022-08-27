@@ -58,3 +58,9 @@ source env/bin/activate
 ```shell
 deactivate
 ```
+
+Certo. Caso tenha executado o comando acima, ative novamente seu ambiente virtual para contuarmos com o curso.
+
+## Ciclo do TDD
+
+![Ciclo do Test Driven Development](assets/img/img-tdd.png "Ciclo do TDD")
