@@ -17,7 +17,7 @@ Estou assumindo que você possua uma certa familiaridade com o sistema UNIX. Cas
 
 Eu não sei vocês, mas eu adoro pizza. Sempre tive como meta criar um sistema de pizzaria eficaz, capaz de atender às demandas de uma pizzaria moderna.
 
-Pesquisando no github, encontrei o seguinte diagrama:
+Pesquisando no github, encontrei o seguinte diagrama: <https://github.com/ai-santos/pizza-database>
 
 ![Esquema do banco de dados de uma pizzaria](assets/img/pizzadb-schema-2.png "Esquema do banco de dados de uma pizzaria")
 
@@ -25,14 +25,24 @@ Daí pensei: porque não criar uma API REST em python Flask que atenda essa mode
 
 ## Criando o ambiente virtual
 
-Toda aplicação em Python exige um ambiente virtual para isolar as dependências utilizadas no projeto da máquina hospedeira. em seu terminal, digite:
+Toda aplicação em Python exige um ambiente virtual para isolar as dependências utilizadas no projeto da máquina hospedeira. em seu terminal, execute o seguinte comando:
+
+```shell
+mdkir tdd-pizza-flask && cd tdd-pizza-flask
+```
+
+Certifique-se de instalar as dependências necessárias para começarmos a codificação:
+
+```shell
+sudo apt install -y python3 python3-dev python3-venv
+```
+
+> OBS: Embora iremos utilizar docker e docker-compose, possuir um ambiente virtual pode nos ajudar a debugar código mais rapidamente!
+
+Em seguida, crie um ambiente virtual com o seguinte comando:
 
 ```shell
 python3 -m venv env
 ```
 
-Caso o comando falhe, instale as dependências em seu linux. Para ubuntu, faça o seguinte:
-
-```shell
-sudo apt install -y python3 python3-dev python3-venv
-```
+Com as dependências instaladas e o ambiente virtual criado, ative
