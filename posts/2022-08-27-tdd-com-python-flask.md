@@ -20,3 +20,19 @@ Eu não sei vocês, mas eu sou fascinado por pizzas. Sempre tive como meta criar
 Pesquisando no github, encontrei o seguinte diagrama:
 
 ![Esquema do banco de dados de uma pizzaria](assets/img/pizzadb-schema-2.png "Esquema do banco de dados de uma pizzaria")
+
+Daí pensei: porque não criar uma API REST em python Flask que atenda essa modelagem incrível ? 
+
+## Criando o ambiente virtual
+
+Toda aplicação em Python exige um ambiente virtual para isolar as dependências utilizadas no projeto da máquina hospedeira. em seu terminal, digite:
+
+```shell
+python3 -m venv env
+```
+
+Caso o comando falhe, instale as dependências em seu linux. Para ubuntu, faça o seguinte:
+
+```shell
+sudo apt install -y python3 python3-dev python3-venv
+```
