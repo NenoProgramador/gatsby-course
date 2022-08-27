@@ -7,7 +7,7 @@ image: assets/img/whatsapp-image-2022-08-24-at-15.28.31.jpeg
 category: python
 background: "#EB7728"
 ---
-# Vamos construir algo simples, porém funcional.
+# Vamos construir algo simples, porém funcional. Um MVP praticamente (mínimo produto viável).
 
 ![Tecnologias envolvidas no nosso app](assets/img/whatsapp-image-2022-08-24-at-15.28.31.jpeg "Tecnologias envolvidas em nosso app")
 
@@ -15,7 +15,7 @@ Estou assumindo que você possua uma certa familiaridade com o sistema UNIX. Cas
 
 ## O que vamos construir ?
 
-Eu não sei vocês, mas eu sou fascinado por pizzas. Sempre tive como meta criar um sistema de pizzaria eficaz, capaz de atender às demandas de uma pizzaria moderna.
+Eu não sei vocês, mas eu adoro pizza. Sempre tive como meta criar um sistema de pizzaria eficaz, capaz de atender às demandas de uma pizzaria moderna.
 
 Pesquisando no github, encontrei o seguinte diagrama:
 
