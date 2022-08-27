@@ -91,7 +91,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-netlify-cms`, // hotfix
       options: {
-        publicPath: `bWFuYWdlbWVudA==`,
+        publicPath: `wadsongarbesadmin`,
       },
     },
   ],
