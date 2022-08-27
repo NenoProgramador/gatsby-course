@@ -51,8 +51,6 @@ Com as dependências instaladas, ative o ambiente virtual para começarmos a cod
 source env/bin/activate
 ```
 
-
-
 > OBS: Para desativar o ambiente virtual, use o comando a seguir:
 
 ```shell
@@ -64,3 +62,5 @@ Certo. Caso tenha executado o comando acima, ative novamente seu ambiente virtua
 ## Ciclo do TDD
 
 ![Ciclo do Test Driven Development](assets/img/img-tdd.png "Ciclo do TDD")
+
+A ideia de usar TDD em um contexto de desenvolvimento de aplicações web pode parecer tedioso no começo. Mas a medida que o software cresce em complexidade, o valor dos testes se torna evidente. Vamos então criar nosso primeiro teste
