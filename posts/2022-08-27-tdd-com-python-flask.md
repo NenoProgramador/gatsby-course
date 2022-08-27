@@ -1,5 +1,5 @@
 ---
-title: TDD com Python Flask
+title: TDD com Python Flask - Parte 1
 description: Vamos juntos desenvolver uma aplicação web utilizando python,
   postgresql, docker e pytest!
 date: 2022-08-27 12:26:40
@@ -45,4 +45,16 @@ Em seguida, crie um ambiente virtual com o seguinte comando:
 python3 -m venv env
 ```
 
-Com as dependências instaladas e o ambiente virtual criado, ative
+Com as dependências instaladas, ative o ambiente virtual para começarmos a codificação:
+
+```shell
+source env/bin/activate
+```
+
+
+
+> OBS: Para desativar o ambiente virtual, use o comando a seguir:
+
+```shell
+deactivate
+```
