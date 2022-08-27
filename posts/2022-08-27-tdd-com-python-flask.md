@@ -15,16 +15,8 @@ Estou assumindo que você possua uma certa familiaridade com o sistema UNIX. Cas
 
 ## O que vamos construir ?
 
-Vamos construir um aplicativo novo no mercado. Uma API para servir o prontuário médico de animais no Pet Shop do Neno. Com essa API, seremos capazes de cadastrar um novo prontuário, editar um prontuário, exibir um prontuário ou deletar um prontuário.
+Eu não sei vocês, mas eu sou fascinado por pizzas. Sempre tive como meta criar um sistema de pizzaria eficaz, capaz de atender às demandas de uma pizzaria moderna.
 
-Este é o início de uma série de tutoriais, onde começaremos bem do básico até possuirmos a aplicação final que atenda à demanda do Pet Shop do Neno.
+Pesquisando no github, encontrei o seguinte diagrama:
 
-Vamos nessa ?
-
-
-
-## Qual é o problema que vamos resolver ?
-
-*"Neno, eu sempre perco a papelada dos animais aqui da clínica. Não consigo manter um histórico do que já receitei de remédios só de cabeça. Por favor me ajude a resolver esse problema!"*
-
-Tendo conhecimento desta nota do veterinário, consegui modelar uma solução para o problema:
+![Esquema do banco de dados de uma pizzaria](assets/img/pizzadb-schema-2.png "Esquema do banco de dados de uma pizzaria")
