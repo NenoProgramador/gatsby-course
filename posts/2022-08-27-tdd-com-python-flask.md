@@ -18,3 +18,13 @@ Estou assumindo que você possua uma certa familiaridade com o sistema UNIX. Cas
 Vamos construir um aplicativo novo no mercado. Uma API para servir o prontuário médico de animais no Pet Shop do Neno. Com essa API, seremos capazes de cadastrar um novo prontuário, editar um prontuário, exibir um prontuário ou deletar um prontuário.
 
 Este é o início de uma série de tutoriais, onde começaremos bem do básico até possuirmos a aplicação final que atenda à demanda do Pet Shop do Neno.
+
+Vamos nessa ?
+
+
+
+## Qual é o problema que vamos resolver ?
+
+*"Neno, eu sempre perco a papelada dos animais aqui da clínica. Não consigo manter um histórico do que já receitei de remédios só de cabeça. Por favor me ajude a resolver esse problema!"*
+
+Tendo conhecimento desta nota do veterinário, consegui modelar uma solução para o problema:
