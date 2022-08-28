@@ -23,7 +23,7 @@ Pesquisando no github, encontrei o seguinte diagrama: <https://github.com/ai-san
 
 ![Esquema do banco de dados de uma pizzaria](assets/img/pizzadb-schema-2.png "Esquema do banco de dados de uma pizzaria")
 
-Daí pensei: porque não criar uma API REST em python Flask que atenda essa modelagem incrível ? 
+Daí pensei: porque não criar uma API REST em Python Flask que use essa modelagem incrível ? 
 
 ## Ciclo do TDD
 
