@@ -11,7 +11,7 @@ background: "#EB7728"
 
 ![Tecnologias envolvidas no nosso app](assets/img/whatsapp-image-2022-08-24-at-15.28.31.jpeg "Tecnologias envolvidas em nosso app")
 
-Vamos utilizar o gitpod para construir nosso app. Primeiro, acesse o [github.com](github.com) e crie uma conta.
+Vamos utilizar o gitpod para construir nosso app. Primeiro, acesse o [github](https://github.com) e crie uma conta.
 
 Feito isso, crie um repositório público chamado *tdd-pizza-flask,* acesse o[ gitpod.io](https://gitpod.io) e autorize seu repositório recém criado. 
 
