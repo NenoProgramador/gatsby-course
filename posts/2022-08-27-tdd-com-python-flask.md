@@ -31,8 +31,6 @@ Daí pensei: porque não criar uma API REST em Python Flask que use essa modelag
 
 A ideia de usar TDD em um contexto de desenvolvimento de aplicações web pode parecer tedioso no começo. Mas a medida que o software cresce em complexidade, o valor dos testes se torna evidente. Vamos então criar nosso primeiro teste.
 
-
-
 ## Começando com um teste!
 
 crie um diretório onde o código fonte irá ficar. Eu costumo chamar de src.
@@ -62,15 +60,14 @@ import os
 
 def test_development_config(test_app):
     test_app.config.from_object("src.config.DevelopmentConfig")
-    assert test_app.config["SECRET_KEY"] == "açaicombanana2022"
+    assert test_app.config["SECRET_KEY"] == os.environ.get("SECRET_KEY") or "açaicombanana2022"
     assert not test_app.config["TESTING"]
     assert test_app.config["SQLALCHEMY_DATABASE_URI"] == os.environ.get("DATABASE_URL")
 
 
 def test_testing_config(test_app):
     test_app.config.from_object("src.config.TestingConfig")
-    assert test_app.config["SECRET_KEY"] == "açaicombanana2022"
-    assert not test_app.config["PRESERVE_CONTEXT_ON_EXCEPTION"]
+    assert test_app.config["SECRET_KEY"] == os.environ.get("SECRET_KEY") or "açaicombanana2022"
     assert test_app.config["SQLALCHEMY_DATABASE_URI"] == os.environ.get(
         "DATABASE_TEST_URL"
     )
@@ -78,7 +75,7 @@ def test_testing_config(test_app):
 
 def test_production_config(test_app):
     test_app.config.from_object("src.config.ProductionConfig")
-    assert test_app.config["SECRET_KEY"] == "açaicombanana2022"
+    assert test_app.config["SECRET_KEY"] == os.environ.get("SECRET_KEY") or "açaicombanana2022"
     assert not test_app.config["TESTING"]
     assert test_app.config["SQLALCHEMY_DATABASE_URI"] == os.environ.get("DATABASE_URL")
 ```
