@@ -13,11 +13,11 @@ background: "#EB7728"
 
 Vamos utilizar o gitpod para construir nosso app. Primeiro, acesse o [github.com](github.com) e crie uma conta.
 
-Feito isso, crie um repositório público chamado tdd-pizza-flask e depois acesse o[ gitpod.io](https://gitpod.io) e autorize seu repositório recém criado. 
+Feito isso, crie um repositório público chamado *tdd-pizza-flask,* acesse o[ gitpod.io](https://gitpod.io) e autorize seu repositório recém criado. 
 
 ## O que vamos construir ?
 
-Eu não sei vocês, mas eu adoro pizza. Sempre tive como meta criar um sistema de pizzaria eficaz, capaz de atender às demandas de uma pizzaria moderna.
+Eu não sei vocês, mas eu adoro pizza. Sempre tive como meta criar um sistema de pizzaria eficaz, capaz de atender às necessidades de uma pizzaria delivery.
 
 Pesquisando no github, encontrei o seguinte diagrama: <https://github.com/ai-santos/pizza-database>
 
