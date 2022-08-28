@@ -79,3 +79,21 @@ def test_production_config(test_app):
     assert not test_app.config["TESTING"]
     assert test_app.config["SQLALCHEMY_DATABASE_URI"] == os.environ.get("DATABASE_URL")
 ```
+
+Como você pode observar, criamos 3 testes, um para cada tipo de ambiente (desenvolviment, teste e  produção). SECRET_KEY se refere à uma chave secreta para funcionamento de algumas funcionalidades de nosso app que necessitem de proteção por criptografia. SQLALCHEMY_DATABASE_URI se refere à string de conexão com o banco de dados e TESTING se refere ao tipo de ambiente onde o flask irá rodar.
+
+Para rodar o teste, execute este comando antes:
+
+```shell
+pip install flask==2.1.1 pytest
+```
+
+Após o comando acima, rode os testes e certifique-se que eles falharão:
+
+```shell
+pytest
+```
+
+![Pytest](assets/img/pytest.png "Pytest")
+
+Você pode optar por instalar o pytest-sugar, que deixará mais amigável a saída dos seus testes
