@@ -29,4 +29,25 @@ Daí pensei: porque não criar uma API REST em Python Flask que use essa modelag
 
 ![Ciclo do Test Driven Development](assets/img/img-tdd.png "Ciclo do TDD")
 
-A ideia de usar TDD em um contexto de desenvolvimento de aplicações web pode parecer tedioso no começo. Mas a medida que o software cresce em complexidade, o valor dos testes se torna evidente. Vamos então criar nosso primeiro teste
+A ideia de usar TDD em um contexto de desenvolvimento de aplicações web pode parecer tedioso no começo. Mas a medida que o software cresce em complexidade, o valor dos testes se torna evidente. Vamos então criar nosso primeiro teste.
+
+
+
+## Começando com um teste!
+
+crie um diretório onde o código fonte irá ficar. Eu costumo chamar de src.
+
+```shell
+mkdir src
+```
+
+Feito isso, crie o diretório tests e dentro dele crie os seguintes arquivos:
+
+```shell
+mkdir src/tests
+touch src/tests/__init__.py 
+touch src/tests/conftest.py  
+touch src/tests/test_config.py
+```
+
+O \_\_init\_\_.py configura um módulo python dentro de src, permitindo o uso dos imports
