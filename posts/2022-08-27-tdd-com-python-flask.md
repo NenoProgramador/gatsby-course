@@ -50,4 +50,4 @@ touch src/tests/conftest.py
 touch src/tests/test_config.py
 ```
 
-O \_\_init\_\_.py configura um módulo python dentro de src, permitindo o uso dos imports
+O \_\_init\_\_.py configura um módulo python dentro de src, permitindo o uso dos imports. Já o conftest.py é onde codificaremos as fixtures, que são funcões do pytest que facilitam e muito nossos testes. Por fim, o test_config.py conterá os testes de confiiguração do nosso app (produção, teste e desenvolvimento).
