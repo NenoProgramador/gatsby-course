@@ -96,4 +96,8 @@ pytest
 
 ![Pytest](assets/img/pytest.png "Pytest")
 
-Você pode optar por instalar o pytest-sugar, que deixará mais amigável a saída dos seus testes
+Você pode optar por instalar o pytest-sugar, que deixará mais amigável a saída dos seus testes:
+
+```shell
+pip install pytest-sugar
+```
