@@ -22,4 +22,4 @@ Coisas legais sobre a área de TI, não só meu trabalho mas também dos meus co
 
 ### J﻿ab
 
-O﻿s melhores equipamentos de inform
+O﻿s melhores equipamentos de informática você encontra [aqui](https://www.amazon.com.br/b?_encoding=UTF8&tag=19970ff5-20&linkCode=ur2&linkId=23d63dd1220ad6228e9a5039cd6b9582&camp=1789&creative=9325&node=16339926011")
