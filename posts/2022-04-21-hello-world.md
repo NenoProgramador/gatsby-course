@@ -19,3 +19,7 @@ Meu nome é Wadson Garbes e eu criei este blog para documentar minha vida profis
 ### O que esperar deste blog ?
 
 Coisas legais sobre a área de TI, não só meu trabalho mas também dos meus colegas (os quais ainda não convidei para escrever aqui mas certamente os convidarei) e eventuais viagens que espero fazer ao decorrer dos anos.
+
+### J﻿ab
+
+O﻿s melhores equipamentos de inform
