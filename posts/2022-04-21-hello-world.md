@@ -1,7 +1,7 @@
 ---
 title: Hello, World!
 description: Primeiro post do Neno
-date: 2022-04-21 06:02:52
+date: 2022-09-07 02:12:41
 image: https://avatars.githubusercontent.com/u/20468878?v=4
 category: lifestyle
 background: "#7D669E"
@@ -19,3 +19,9 @@ Meu nome é Wadson Garbes e eu criei este blog para documentar minha vida profis
 ### O que esperar deste blog ?
 
 Coisas legais sobre a área de TI, não só meu trabalho mas também dos meus colegas (os quais ainda não convidei para escrever aqui mas certamente os convidarei) e eventuais viagens que espero fazer ao decorrer dos anos.
+
+F﻿iquem atentos!
+
+##### Promo especial
+
+O﻿s melhores equipamentos de informática você encontra [aqui](https://www.amazon.com.br/b?_encoding=UTF8&tag=19970ff5-20&linkCode=ur2&linkId=23d63dd1220ad6228e9a5039cd6b9582&camp=1789&creative=9325&node=16339926011)
