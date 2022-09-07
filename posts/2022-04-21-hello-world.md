@@ -20,6 +20,8 @@ Meu nome é Wadson Garbes e eu criei este blog para documentar minha vida profis
 
 Coisas legais sobre a área de TI, não só meu trabalho mas também dos meus colegas (os quais ainda não convidei para escrever aqui mas certamente os convidarei) e eventuais viagens que espero fazer ao decorrer dos anos.
 
-### J﻿ab
+F﻿iquem atentos!
 
-O﻿s melhores equipamentos de informática você encontra [aqui](https://www.amazon.com.br/b?_encoding=UTF8&tag=19970ff5-20&linkCode=ur2&linkId=23d63dd1220ad6228e9a5039cd6b9582&camp=1789&creative=9325&node=16339926011")
+##### Promo especial
+
+O﻿s melhores equipamentos de informática você encontra [aqui](https://www.amazon.com.br/b?_encoding=UTF8&tag=19970ff5-20&linkCode=ur2&linkId=23d63dd1220ad6228e9a5039cd6b9582&camp=1789&creative=9325&node=16339926011)
