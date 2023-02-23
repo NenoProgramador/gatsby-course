@@ -8,7 +8,7 @@ module.exports = {
     position: `Engenheiro de software`,
     description: `Um blog sobre desenvolvimento de software e algumas outras coisas`,
     author: `Wadson Garbes (neno)`,
-    siteUrl: `https://blog-do-neno.netlify.com`,
+    siteUrl: `https://wadsongarbes.com`,
   },
   plugins: [
     `gatsby-plugin-transition-link`,
@@ -20,6 +20,36 @@ module.exports = {
       options: {
         name: `uploads`,
         path: `${__dirname}/static/assets/img`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        // You can add multiple tracking ids and a pageview event will be fired for all of them.
+        trackingIds: [
+          "G-7T50QTVD3K", // Google Analytics / GA
+          "f08c47fec0942fa0", // Marketing Platform advertising products (Display & Video 360, Search Ads 360, and Campaign Manager)
+        ],
+        // This object gets passed directly to the gtag config command
+        // This config will be shared across all trackingIds
+        gtagConfig: {
+          optimize_id: null,
+          anonymize_ip: true,
+          cookie_expires: 0,
+        },
+        // This object is used for configuration specific to this plugin
+        pluginConfig: {
+          // Puts tracking script in the head instead of the body
+          head: false,
+          // Setting this parameter is also optional
+          respectDNT: true,
+          // Avoids sending pageview hits from custom paths
+          exclude: ["/preview/**"],
+          // Defaults to https://www.googletagmanager.com
+          origin: "https://www.googletagmanager.com",
+          // Delays processing pageview events on route update (in milliseconds)
+          delayOnRouteUpdate: 0,
+        }   
       },
     },
     {
