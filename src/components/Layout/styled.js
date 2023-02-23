@@ -21,6 +21,12 @@ export const LayoutMain = styled.main`
       "posts"
       "pagination";
   }
+  
+  h1, p {
+    text-align: center;
+    color: white;
+    margin-top: 50px
+ }
 
   ${media.lessThan("large")`
     padding: 4.125rem 0 3rem 0;
